@@ -23,7 +23,7 @@ $ source env/bin/activate       # optional: use virtualenv
 $ pip install -r requirements.txt
 ```
 
-You will also need [ImageMagick](http://www.imagemagick.org/script/index.php) and [pdftotext](https://poppler.freedesktop.org/), which you can install on Ubuntu as `sudo apt-get install imagemagick poppler-utils`. Bleh, that's a lot of dependencies isn't it.
+You will also need [ImageMagick](http://www.imagemagick.org/script/index.php), [pdftotext](https://poppler.freedesktop.org/), and [sqlite3](https://sqlite.org/), which you can install on Ubuntu as `sudo apt-get install imagemagick poppler-utils sqlite3`. Bleh, that's a lot of dependencies isn't it.
 
 ### Processing pipeline
 
